@@ -1,0 +1,5 @@
+br\com\portfolio\felipe\gadelha\ecommerce\convert\GsonSerializer.class
+br\com\portfolio\felipe\gadelha\ecommerce\consumer\KafkaService.class
+br\com\portfolio\felipe\gadelha\ecommerce\convert\GsonDeserializer.class
+br\com\portfolio\felipe\gadelha\ecommerce\producer\KafkaDispatcher.class
+br\com\portfolio\felipe\gadelha\ecommerce\consumer\ConsumerFunction.class
